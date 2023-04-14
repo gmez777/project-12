@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Big Shoulders Display";
+}
+.header-div {
+  padding: 0 16px 0 16px;
+  margin-top: 32px;
+}
+.header-hero {
+  width: 100%;
+}
+h1 {
+  font-weight: 900;
+  font-size: 60px;
+  line-height: 55px;
+  text-transform: uppercase;
+  color: #151515;
+  margin-bottom: 32px;
+}
+.p-1 {
+  font-family: "Outfit";
+
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+  color: #444444;
+}
+.location-div {
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 3.63636px;
+  color: #ffffff;
+  background: #151515;
+  padding: 24px 35px 24px 35px;
+}
+.butt-1 {
+  background: #d5966c;
+  padding: 24px;
+  border: none;
+}
+.button-div {
+  display: flex;
+  align-items: center;
+  margin-top: 32px;
+}
+main {
+  padding: 0 16px 0 16px;
+}
+.grid-1-mob {
+  width: 100%;
+}
+.main-1 {
+  margin-top: 120px;
+}
+h2 {
+  font-weight: 900;
+  font-size: 50px;
+  line-height: 45px;
+  text-transform: uppercase;
+  color: #151515;
+  margin-top: 25px;
+  margin-bottom: 21px;
+}
+.grid-2-mob {
+  width: 100%;
+}
+.grid-3-mob {
+  width: 100%;
+}
+.main-2 {
+  margin-top: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.main-2-div {
+  background: #151515;
+  padding: 48px 24px 48px 24px;
+}
+h3 {
+  font-weight: 900;
+  font-size: 50px;
+  line-height: 45px;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin-bottom: 24px;
+}
+.p-2 {
+  font-family: "Outfit";
+
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+  color: #ffffff;
+}
+footer {
+  background: #151515;
+  padding: 48px 32px;
+  margin-top: 120px;
+}
+.p-3 {
+  font-family: "Outfit";
+
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 26px;
+  color: #ffffff;
+  margin-top: 38px;
+}
+.social {
+  margin-top: 38px;
+  display: flex;
+  gap: 20px;
+}
+
+@media screen and (min-width:768px){
+  
+}

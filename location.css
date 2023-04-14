@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Big Shoulders Display";
+}
+header{
+    position: relative;
+}
+.button-div {
+  display: flex;
+  align-items: center;
+  position: absolute;
+}
+.map-img{
+    width: 100%;
+}
+.location-button {
+  background: #d5966c;
+  padding: 24px;
+  border: none;
+}
+.back-home {
+  font-weight: 800;
+  font-size: 20px;
+  letter-spacing: 3.63636px;
+  color: #ffffff;
+  background: #151515;
+  padding: 26px 35px;
+}
+main {
+  background: #151515;
+  padding: 48px 16px 56px 16px;
+}
+h1 {
+  font-weight: 900;
+  font-size: 50px;
+  text-transform: uppercase;
+  color: white;
+}
+h2 {
+  font-weight: 900;
+  font-size: 32px;
+  color: #d5966c;
+  text-transform: uppercase;
+  margin-top: 48px;
+}
+.adress {
+  font-family: "Outfit";
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+  color: white;
+  margin-top: 20px;
+}
+.main-p {
+  font-family: "Outfit";
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+  color: #fff;
+  margin-top: 20px;
+}
+footer {
+  background: #d5966c;
+  padding: 48px 32px;
+}
+.footer-p {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 26px;
+  color: #151515;
+  margin-top: 38px;
+}
+.social {
+  margin-top: 38px;
+  display: flex;
+  gap: 20px;
+}
